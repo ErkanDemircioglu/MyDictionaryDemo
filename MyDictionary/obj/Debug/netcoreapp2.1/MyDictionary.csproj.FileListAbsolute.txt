@@ -1,0 +1,11 @@
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp2.1\MyDictionary.deps.json
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp2.1\MyDictionary.runtimeconfig.json
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp2.1\MyDictionary.runtimeconfig.dev.json
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp2.1\MyDictionary.dll
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\bin\Debug\netcoreapp2.1\MyDictionary.pdb
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp2.1\MyDictionary.csprojAssemblyReference.cache
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp2.1\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp2.1\MyDictionary.AssemblyInfoInputs.cache
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp2.1\MyDictionary.AssemblyInfo.cs
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp2.1\MyDictionary.dll
+C:\Users\Erkan\source\repos\MyDictionary\MyDictionary\obj\Debug\netcoreapp2.1\MyDictionary.pdb
